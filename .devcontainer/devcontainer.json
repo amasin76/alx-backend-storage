@@ -1,0 +1,20 @@
+{
+	"name": "Alx",
+	"image": "holbertonschool/ubuntu-1804-python37",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode"
+			],
+			"settings": {
+				"workbench.colorTheme": "Default Dark Modern",
+				"workbench.iconTheme": "material-icon-theme",
+				"editor.formatOnSave": true,
+				"git.autofetch": true,
+				"files.insertFinalNewline": true,
+				"extensions.ignoreRecommendations": true
+			}
+		}
+	}
+}
